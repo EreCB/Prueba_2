@@ -1,2 +1,2 @@
-# Prueva_2
+# Prueba_2
 Intro a GitHub
